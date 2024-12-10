@@ -1,1 +1,7 @@
 # latihan-oop
+
+Nama : MUHAMMAD RAKHA GHANI
+
+NIM : 312410421
+
+KELAS : TI.24.A3
